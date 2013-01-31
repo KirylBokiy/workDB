@@ -26,5 +26,6 @@
     <module>workDB-model</module>
     <module>workDB-ejb</module>
     <module>workDB-view</module>
+    <module>workDB-shared</module>
   </modules>
 </project>
